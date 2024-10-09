@@ -16,6 +16,7 @@ Für die Platform wurden folgende Komponenten verbaut:
   - HP FLOM Karte 4x Gigabit Ethernet
 - Unifi Cloud Gateway Ultra
 - USW 24
+
 Zusätzlich wurde ein geeignetes Rack und sonstiges Zubehör angeschaft.
 
 Der DL380 wurde aufgrund seines Formfaktors ausgewählt der in unserer Ausstatungsvariante 16 LFF Einschübe besitzt.
